@@ -231,6 +231,6 @@ section { display: flex; }
 .full-banner-sidebar .bnt.btn-default {
     margin-top: 50px;
     text-transform: uppercase;
-    letter-spacing: 1;
+    letter-spacing: 1px;
     z-index: 1;
 }
